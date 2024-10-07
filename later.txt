@@ -1,0 +1,26 @@
+  <div id="shopping_container">
+            <a href="#">ONLINE SHOPPING</a>
+            <div id="shopping_list">
+                <div id="men_container">
+                    <a id="men_list" class="list" href="#">men</a>
+                </div>
+                <div id="women_container">
+                    <a id="women_list" class="list" href="#">women</a>
+                </div>
+                <div id="kid_container">
+                    <a id="kid_list" class="list" href="#">kid</a>     
+                </div>
+                <div id="home_living_container">
+                <a id="home_living_list" class="list" href="#">home & living</a>     
+                </div>
+                <div id="beauty_container">
+                <a id="beauty_list" class="list" href="#">beauty</a>
+                </div>
+                <div id="gift_card_container">
+                <a id="gift_card_list" class="list" href="#">gift cards</a>
+                </div>
+                <div id="mymtra_insider_container">
+                <a id="myntra_insider" class="list" href="#">myntra insider</a>
+                </div>
+            </div>
+        </div>
